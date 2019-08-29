@@ -5,3 +5,4 @@ que manejo esta:
 
 - Python
 - PHP
+- Javascript
