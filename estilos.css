@@ -6,3 +6,10 @@ body {
     color: #030;
 }
 
+footer {
+    background-color: #F25757;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    font-size: 20px;
+}
