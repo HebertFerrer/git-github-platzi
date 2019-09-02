@@ -1,8 +1,18 @@
 body {
     margin: auto;
     padding: 0px;
-    background-color: #F2F6D0;
+    background-color: #EAF2E3;
     max-width: 80%;
-    color: #030;
+}
+
+header {
+    background-color: #F25757;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+
+h1, h2 {
+    margin-top: 0px;
 }
 
